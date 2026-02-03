@@ -23,7 +23,7 @@ o	Cabin – Cabin number (dropped due to high missing values)
 
 📊 Key Analysis Steps
 1.	Data Loading
-o	Imported the Titanic dataset using Pandas.
+	Imported the Titanic dataset using Pandas.
 
 2.	Initial Exploration
 o	Checked dataset shape, column names, data types, and summary statistics.
